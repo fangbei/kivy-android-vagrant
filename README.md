@@ -33,5 +33,8 @@ Links
 -----
 
 [Python For Android](http://python-for-android.readthedocs.org/en/latest/) [(Git)](https://github.com/kivy/python-for-android)
+
 [Vagrant](http://www.vagrantup.com/)
+
 [Kivy's Android Guide](http://kivy.org/docs/guide/packaging-android.html)
+
